@@ -1,0 +1,32 @@
+body {
+    background: url(/home/hope/Downloads/pexels-pixabay-259280.jpg) center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+  }
+  
+  .wrapper {
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40px;
+  }
+  
+  #content {
+    padding: 20px;
+    background: rgba(240, 7, 7, 0.85);
+  }
+  header{
+    font-size: 150px;
+  }
+a{font-size: 50px;
+    }
+    
+    a:link {
+        color: rgb(8, 0, 0);
+      }
+      
+      a:visited {
+        color: purple;
+      }
+
